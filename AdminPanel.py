@@ -10,8 +10,8 @@ import threading
 # ---- Config ----
 ACCOUNTS_FILE = "accounts.json"
 SIGNUP_CODE = "1234"
-BOT_TOKEN = "MTQyMzM4NzExMTM1MjA0MTUwMw.GC-2Bo.UaTHCHPh-rM0IiVXnp4N8zjO-qb3T6okCIkWD4"  # Replace with your regenerated token
-GUILD_ID = 1366359440491806750       # Replace with your server ID
+BOT_TOKEN = "00"  # Replace with your regenerated token
+GUILD_ID = 00       # Replace with your server ID
 
 # ---- Helper Functions ----
 def load_accounts():
